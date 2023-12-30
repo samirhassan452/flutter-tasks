@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "package": "Standard",
+        "icon": "assets/icons/png/banks/swiss_bank_logo.png",
+        "website": "https://www.google.com/"
+    },
+    {
+        "id": 2,
+        "package": "Plus",
+        "icon": "assets/icons/png/banks/cim_logo.png",
+        "website": "https://www.google.com/"
+    },
+    {
+        "id": 3,
+        "package": "Max",
+        "icon": "assets/icons/png/banks/ubs_logo.png",
+        "website": "https://www.google.com/"
+    },
+    {
+        "id": 4,
+        "package": "Unlimited",
+        "icon": "assets/icons/png/banks/ubs_logo.png",
+        "website": "https://www.google.com/"
+    }
+]

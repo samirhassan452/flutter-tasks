@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "logo": "assets/icons/png/bonds/amazon.jpeg",
+    "name": "Amazon INC",
+    "degree": "BBB",
+    "website": "https://www.google.com/",
+    "percentage": 2.70
+  },
+  {
+    "id": 2,
+    "logo": "assets/icons/png/bonds/apple.png",
+    "name": "Apple INC",
+    "degree": "AA+",
+    "website": "https://www.google.com/",
+    "percentage": 4.85
+  },
+  {
+    "id": 3,
+    "logo": "assets/icons/png/bonds/ford.png",
+    "name": "Ford Motor LLC",
+    "degree": "BB+",
+    "website": "https://www.google.com/",
+    "percentage": 5.37
+  },
+  {
+    "id": 4,
+    "logo": "assets/icons/png/bonds/mercedes.jpeg",
+    "name": "Mercedes INC",
+    "degree": "BB+",
+    "website": "https://www.google.com/",
+    "percentage": 8.50
+  },
+  {
+    "id": 5,
+    "logo": "assets/icons/png/bonds/morgan_stanley.png",
+    "name": "Morgan Stanely",
+    "degree": "A-",
+    "website": "https://www.google.com/",
+    "percentage": 6.27
+  },
+  {
+    "id": 6,
+    "logo": "assets/icons/png/bonds/tesla.jpeg",
+    "name": "Tesla INC",
+    "degree": "A-",
+    "website": "https://www.google.com/",
+    "percentage": 5.30
+  },
+  {
+    "id": 7,
+    "logo": "assets/icons/png/bonds/volkswagen.jpg",
+    "name": "Volkswagen INC",
+    "degree": "A-",
+    "website": "https://www.google.com/",
+    "percentage": 3.50
+  }
+]
